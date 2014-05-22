@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="prefs_import_external_dictionary">Importar ficheiro de dicionário</string>
-  <string name="import_external_dictionary_multiple_files_title">Selecionar o ficheiro de dicionário a importar</string>
-  <string name="import_external_dictionary_confirm_install_title">Confirmar a importação</string>
-  <string name="import_external_dictionary_confirm_install_message">Tem a certeza que quer importar o dicionário para o idioma de <xliff:g id="locale_name">%s</xliff:g>?</string>
+  <string name="prefs_import_external_dictionary">ආයාත ශබ්දකෝෂ ගොනුව</string>
+  <string name="import_external_dictionary_multiple_files_title">ආයාත කිරීමට ශබ්දකෝෂ ගොනුවක් තෝරන්න</string>
+  <string name="import_external_dictionary_confirm_install_title">ආයාත කිරීම තහවුරු කරන්න</string>
+  <string name="import_external_dictionary_confirm_install_message">ඔබට <xliff:g id="locale_name">%s</xliff:g> භාෂාව සඳහා මෙම ශබ්දකෝෂය ආයාත කිරීමට අවශ්‍ය බවට විශ්වාසද?</string>
 </resources>
