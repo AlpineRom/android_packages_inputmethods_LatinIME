@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="prefs_import_external_dictionary">Importare fișier dicționar</string>
-  <string name="import_external_dictionary_multiple_files_title">Selectați un fișier de dicționar pentru importare</string>
-  <string name="import_external_dictionary_confirm_install_title">Confirmare importare</string>
-  <string name="import_external_dictionary_confirm_install_message">Sigur doriți să importați acest dicționar pentru limba <xliff:g id="locale_name">%s</xliff:g> ?</string>
+  <string name="prefs_import_external_dictionary">هێنانی فایلی فەرهەنگ</string>
+  <string name="import_external_dictionary_multiple_files_title">فایلی فەرهەنگ دیاریبکە بۆ هێنان</string>
+  <string name="import_external_dictionary_confirm_install_title">دڵنیاکردنەوە لە هێنان</string>
+  <string name="import_external_dictionary_confirm_install_message">ئایا دڵنیایت لە هێنانی ئەم فەرهەنگە بۆ زمانی <xliff:g id="locale_name">%s</xliff:g> language؟</string>
 </resources>
